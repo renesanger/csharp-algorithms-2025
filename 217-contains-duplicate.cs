@@ -6,7 +6,7 @@ public class Solution {
 
             “I’m using a HashSet here because I only care about uniqueness, not storing any additional data. If I needed to count occurrences, I’d reach for a Dictionary instead.”
 
-            C# Syntax: Add returns false if the element already exists
+            C# Syntax: Add() returns false if the element already exists
         */
 
         var seen = new HashSet<int>();
