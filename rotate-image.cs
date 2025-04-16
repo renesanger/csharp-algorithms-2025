@@ -3,6 +3,7 @@ class Solution:
         # Reverse the matrix vertically
         matrix.reverse()
 
+
         # Transpose the matrix
         for i in range(len(matrix)):
             for j in range(i + 1, len(matrix)):
