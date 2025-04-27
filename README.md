@@ -5,3 +5,4 @@ This repository is a collection of C# solutions to well known problems and algor
 these solutions are of neetcode 150
 
 2025
+all in C#
